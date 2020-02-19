@@ -2,7 +2,7 @@ module.exports = {
   title: '帝之下都',
   description: 'Just playing around',
   // theme: '@vuepress/blog'
-  base: '/blog/',
+  base: '/docs/',
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
