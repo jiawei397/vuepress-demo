@@ -3,7 +3,7 @@ home: true
 heroImage: /test.png
 heroText: 博客
 tagline:
-actionText: 快速上手 →
+actionText: 测试 →
 actionLink: /foo/
 features:
 - title: 简洁至上
